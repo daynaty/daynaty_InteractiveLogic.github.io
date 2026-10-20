@@ -1,0 +1,19 @@
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background-color: beige;
+}
+
+#colourBox {
+    width: 200px;
+    height: 300px;
+    margin: 30px;
+    background-color: black;
+    display: block;
+}
