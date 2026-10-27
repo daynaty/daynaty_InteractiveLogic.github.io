@@ -29,3 +29,7 @@ button {
     border: 5px black;
     border-radius: 7px;
 }
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
